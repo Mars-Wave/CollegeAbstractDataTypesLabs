@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\tmoro\desktop\ucm\data structures\lab13\lab13\list.h(139): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\tmoro\desktop\ucm\data structures\lab13\lab13\list.h(134): note: durante la compilación de la función miembro de plantilla clase de 'T &List<T>::elem(unsigned int) const'
+          with
+          [
+              T=List<std::string>
+          ]
+  c:\users\tmoro\desktop\ucm\data structures\lab13\lab13\lawfirm.h(74): note: vea la referencia a la creación de instancias de plantilla de función 'T &List<T>::elem(unsigned int) const' que se está compilando
+          with
+          [
+              T=List<std::string>
+          ]
+  c:\users\tmoro\desktop\ucm\data structures\lab13\lab13\lawfirm.h(84): note: vea la referencia a la creación de instancias de plantilla clase de 'List<List<std::string>>' que se está compilando
+  lab13.vcxproj -> C:\Users\tmoro\Desktop\UCM\Data Structures\lab13\Debug\lab13.exe

@@ -1,0 +1,5 @@
+﻿  Circle.cpp
+c:\users\tmoro\desktop\ucm\data structures\lab1\lab1\circle.cpp(32): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Source.cpp
+  Generando código...
+  Lab1.vcxproj -> C:\Users\tmoro\Desktop\UCM\Data Structures\Lab1\Debug\Lab1.exe
