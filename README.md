@@ -1,5 +1,4 @@
 # CollegeAbstractDataTypesLabs
-Abstract data type implementation typical assignment solutions to college assignments of second year subject Efficient Data Structures.
 
 ## What is this:
 
