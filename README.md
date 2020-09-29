@@ -6,7 +6,7 @@ This repository is a collection of typical lab exercises for subjects regarding 
 It contains solved exercises about linked lists, stacks, trees, hash tables and the creation of efficient data structures to store and find data 
 based on some client's specifications using the aforementioned as building blocks.
 Every folder contains one of these exercises with the statement. This is all educational, divulgative code containing my solutions 
-to college assignments with the lowest computational complexity achiavable. 
+to college assignments with the lowest computational complexity achievable. 
 
 ## How to use:
 Inside each folder there is a PDF with the assignment description. The code used to make it work is the rest of the files, which have to be
