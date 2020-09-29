@@ -9,4 +9,5 @@ Every folder contains one of these exercises with the statement. This is all edu
 Inside each folder the assignment description exists inside a PDF. The code used to make it work is the rest of the files, 
 which have to be compiled and ran by a c++ compiler/IDE of your choice. 
 
-Disclaimer: The abstract data types like the linked lists and queues, as well as the trees were not coded by me. All I coded was what was asked in the assignment descriptions.
+Disclaimer: Some of the abstract data types in the foldedrs like the linked lists and queues, as well as the trees were not coded by me. 
+All I coded was what was asked in the assignment descriptions.
