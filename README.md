@@ -9,7 +9,7 @@ Every folder contains one of these exercises with the statement. This is all edu
 to college assignments with the lowest computational complexity achievable. 
 
 ## How to use:
-Inside each folder there is a PDF with the assignment description. The code used to make it work is the rest of the files, which have to be
+Inside each folder there is a PDF with the assignment description. The code used to make it work is in the rest of the files, which have to be
 compiled and ran by a C++ compiler/IDE of your choice. I would like to point out here that the files in each folder with each assignment are
 the ones **necessary** to make it run, not the best nor worst ones to approach and solve the problem, they are just the types I chose to use. 
 
