@@ -22,8 +22,7 @@ you refrain from looking at my files and start over at least once with a differe
 solution, know that some teachers can fail you for it even if the input/output is perfect, so you should rework your solution.
 
 Hope you find this repository useful,
-
-MW.
+ MW.
 
 ### Disclaimer:
 Some of the abstract data types in the folders like the linked lists and queues, as well as the trees were not coded by me. 
