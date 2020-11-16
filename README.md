@@ -29,6 +29,13 @@ Hope you find this repository useful,
     MW.
 
 ### Disclaimer:
-Some of the abstract data types in the folders like the linked lists and queues, as well as the trees were not coded by me. 
+The abstract data types in the folders like the stacks, linked lists and queues, as well as the trees were not coded by me, 
+they were given to me by my professors. 
+
 My code is was what was asked in the assignment descriptions, ergo, what you will get asked in college in these subjects.
-You can actually use the C++ ADTs versions, and as long as you use the analog functions the code will work just the same.
+This includes the Source.cpp files and every main function as well as some ADT implementations, the ones that are explicitly asked
+in the problem assignment.
+
+For these subjects the standard is that you get an implementation of the ADTs to use, or use the libraries of the language at hand.
+So you can use the ADTs that were given to me since I included them in the files, some other ADT implementations or the C++ ADTs, 
+and as long as you use the analog functions the code will work just the same.
